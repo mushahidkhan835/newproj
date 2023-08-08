@@ -5,7 +5,8 @@ function ContentCard({image, title, channel, image}) {
     <div>
        
     </div>
-  )
+  ) 
 }
 
 export default ContentCard
+ 
